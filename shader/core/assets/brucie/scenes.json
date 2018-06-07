@@ -1,0 +1,6 @@
+[
+  {
+    name: BEGIN,
+    classname: ca.nerdnet.gdxdemo.shader.MainScene,
+  }
+]
