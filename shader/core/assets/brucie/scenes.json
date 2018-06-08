@@ -2,5 +2,17 @@
   {
     name: BEGIN,
     classname: ca.nerdnet.gdxdemo.shader.MainScene,
+  },
+  {
+    name: S-ONE,
+    classname: ca.nerdnet.gdxdemo.shader.SceneOne,
+  },
+  {
+    name: S-TWO,
+    classname: ca.nerdnet.gdxdemo.shader.SceneTwo,
+  },
+  {
+    name: S-THREE,
+    classname: ca.nerdnet.gdxdemo.shader.SceneThree,
   }
 ]

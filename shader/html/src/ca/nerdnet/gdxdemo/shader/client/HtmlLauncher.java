@@ -3,6 +3,8 @@ package ca.nerdnet.gdxdemo.shader.client;
 import com.badlogic.gdx.ApplicationListener;
 import com.badlogic.gdx.backends.gwt.GwtApplication;
 import com.badlogic.gdx.backends.gwt.GwtApplicationConfiguration;
+
+import ca.nerdnet.brucie.core.BrucieConfig;
 import ca.nerdnet.gdxdemo.shader.MyGdxGame;
 
 public class HtmlLauncher extends GwtApplication {
@@ -10,7 +12,7 @@ public class HtmlLauncher extends GwtApplication {
         // USE THIS CODE FOR A FIXED SIZE APPLICATION
         @Override
         public GwtApplicationConfiguration getConfig () {
-                return new GwtApplicationConfiguration(480, 320);
+                return new GwtApplicationConfiguration(1024, 680);
         }
         // END CODE FOR FIXED SIZE APPLICATION
 
@@ -46,6 +48,16 @@ public class HtmlLauncher extends GwtApplication {
 
         @Override
         public ApplicationListener createApplicationListener () {
-                return new MyGdxGame();
+
+                // Create BrucieConfig instance. This remains the same across platforms
+                BrucieConfig bconfig = new BrucieConfig();
+
+                // Create game
+                MyGdxGame game = new MyGdxGame(bconfig);
+
+                // Register features
+                //game.registerFeature("N);
+
+                return game;
         }
 }

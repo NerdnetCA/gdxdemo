@@ -25,5 +25,6 @@ public class DesktopLauncher {
 		//game.registerFeature("N);
 
 		// Launch the LibGDX app
-		new LwjglApplication(game, config);	}
+		new LwjglApplication(game, config);
+	}
 }

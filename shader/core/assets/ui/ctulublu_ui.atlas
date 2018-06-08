@@ -1,0 +1,291 @@
+
+ctulublu_ui.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+btn_normal
+  rotate: false
+  xy: 590, 174
+  size: 103, 72
+  split: 26, 25, 25, 16
+  pad: 13, 13, 9, 9
+  orig: 103, 72
+  offset: 0, 0
+  index: -1
+btn_normal_g
+  rotate: false
+  xy: 695, 174
+  size: 103, 72
+  split: 26, 25, 25, 16
+  pad: 13, 13, 9, 9
+  orig: 103, 72
+  offset: 0, 0
+  index: -1
+btn_normal_hi
+  rotate: false
+  xy: 800, 174
+  size: 103, 72
+  split: 26, 25, 25, 16
+  pad: 13, 13, 9, 9
+  orig: 103, 72
+  offset: 0, 0
+  index: -1
+btn_round
+  rotate: false
+  xy: 2, 150
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+btn_round_g
+  rotate: false
+  xy: 100, 150
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+btn_round_hi
+  rotate: false
+  xy: 198, 150
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+btn_s_green
+  rotate: false
+  xy: 296, 150
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+btn_s_hi
+  rotate: false
+  xy: 394, 150
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+btn_s_red
+  rotate: false
+  xy: 492, 150
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+cursor
+  rotate: false
+  xy: 1010, 214
+  size: 6, 32
+  orig: 6, 32
+  offset: 0, 0
+  index: -1
+dropdown_g
+  rotate: false
+  xy: 905, 174
+  size: 103, 72
+  split: 26, 56, 53, 16
+  pad: 13, 56, 9, 9
+  orig: 103, 72
+  offset: 0, 0
+  index: -1
+dropdown_hi
+  rotate: false
+  xy: 590, 100
+  size: 103, 72
+  split: 26, 56, 53, 16
+  pad: 13, 56, 9, 9
+  orig: 103, 72
+  offset: 0, 0
+  index: -1
+dropdown_normal
+  rotate: false
+  xy: 695, 100
+  size: 103, 72
+  split: 26, 56, 53, 16
+  pad: 13, 56, 9, 9
+  orig: 103, 72
+  offset: 0, 0
+  index: -1
+frame_alt
+  rotate: false
+  xy: 800, 100
+  size: 103, 72
+  split: 32, 32, 35, 16
+  pad: 13, 13, 9, 9
+  orig: 103, 72
+  offset: 0, 0
+  index: -1
+frame_g
+  rotate: false
+  xy: 905, 100
+  size: 103, 72
+  split: 32, 32, 35, 16
+  pad: 13, 13, 9, 9
+  orig: 103, 72
+  offset: 0, 0
+  index: -1
+frame_normal
+  rotate: false
+  xy: 2, 76
+  size: 103, 72
+  split: 32, 32, 35, 16
+  pad: 13, 13, 9, 9
+  orig: 103, 72
+  offset: 0, 0
+  index: -1
+gutter_horz
+  rotate: false
+  xy: 356, 10
+  size: 56, 64
+  split: 18, 18, 0, 0
+  pad: 0, 0, 0, 0
+  orig: 56, 64
+  offset: 0, 0
+  index: -1
+gutter_vert
+  rotate: false
+  xy: 472, 18
+  size: 64, 56
+  split: 0, 0, 18, 18
+  pad: 0, 0, 0, 0
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+icon_award
+  rotate: false
+  xy: 107, 76
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+icon_cart
+  rotate: false
+  xy: 181, 76
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+icon_chek
+  rotate: false
+  xy: 255, 76
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+icon_down
+  rotate: false
+  xy: 329, 76
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+icon_eks
+  rotate: false
+  xy: 403, 76
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+icon_gp
+  rotate: false
+  xy: 477, 76
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+icon_help
+  rotate: false
+  xy: 551, 26
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+icon_left
+  rotate: false
+  xy: 625, 26
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+icon_menu
+  rotate: false
+  xy: 699, 26
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+icon_options
+  rotate: false
+  xy: 773, 26
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+icon_pause
+  rotate: false
+  xy: 847, 26
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+icon_plus
+  rotate: false
+  xy: 921, 26
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+icon_right
+  rotate: false
+  xy: 2, 2
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+icon_scores
+  rotate: false
+  xy: 76, 2
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+icon_up
+  rotate: false
+  xy: 150, 2
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+knob_horz
+  rotate: false
+  xy: 224, 10
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+knob_vert
+  rotate: false
+  xy: 290, 10
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+pbar
+  rotate: false
+  xy: 414, 10
+  size: 56, 64
+  split: 14, 15, 0, 0
+  pad: 0, 0, 0, 0
+  orig: 56, 64
+  offset: 0, 0
+  index: -1
+select
+  rotate: false
+  xy: 551, 132
+  size: 16, 16
+  split: 6, 6, 6, 6
+  pad: 2, 2, 2, 2
+  orig: 16, 16
+  offset: 0, 0
+  index: -1

@@ -16,6 +16,11 @@ import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 public class SplashScreen extends Scene {
     private static final String TAG = "SPLASH";
 
+    private static final float bgR = 0f;
+    private static final float bgG = 129.0f/256.0f;
+    private static final float bgB = 91f/256f;
+
+
     // Const
     public static final float DISPLAY_TIME = 1.2f;  // minimum display time.
     public static final float F_WIDTH = 800f;  // This version of Splash works in 800x480
@@ -70,7 +75,7 @@ public class SplashScreen extends Scene {
             }
         }
 
-        Gdx.gl20.glClearColor(1f,1f,1f,1f);
+        Gdx.gl20.glClearColor(bgR,bgG,bgB,1f);
         Gdx.gl20.glClear(GL20.GL_COLOR_BUFFER_BIT);
 
         myBatch.begin();
